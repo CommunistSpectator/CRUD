@@ -35,6 +35,7 @@
   "homepage": "https://github.com/CommunistSpectator/CRUD#readme",
   "dependencies": {
     "express": "^4.16.2",
+    "mongoose": "^5.0.9",
     "react": "^16.2.0"
   }
 }
