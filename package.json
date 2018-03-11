@@ -1,0 +1,36 @@
+{
+  "name": "crud",
+  "version": "0.0.1",
+  "description": "Skeleton CRUD for various uses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CommunistSpectator/CRUD.git"
+  },
+  "keywords": [
+    "crud",
+    "mongo",
+    "ecma",
+    "ecmascript",
+    "javascript",
+    "js",
+    "node",
+    "npm",
+    "mongodb",
+    "json",
+    "react",
+    "reactjs",
+    "express",
+    "expressjs",
+    "barebones"
+  ],
+  "author": "CommunistSpectator",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/CommunistSpectator/CRUD/issues"
+  },
+  "homepage": "https://github.com/CommunistSpectator/CRUD#readme"
+}
